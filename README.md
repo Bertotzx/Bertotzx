@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Samantha Bertoti!
 
-**Estudante** de tecnologia em Ibaté, SP 🇧🇷  
+**Estudante** de Desenvolvimento de sistemas em Ibaté, SP 🇧🇷  
 Transformando curiosidade em código, um projeto por vez. 💻
 
 > 🌱 **Atualmente**: aprendendo fundamentos de programação web  
