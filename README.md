@@ -28,7 +28,7 @@ Transformando curiosidade em código, um projeto por vez. 💻
 | Projeto | Descrição | Status |
 |---------|-----------|--------|
 | **[Primeiros Passos](https://github.com/Bertotzx)** | Repositórios de aprendizado e prática | 🟡 Em andamento |
-| **Em breve** | Novos projetos coming soon... | ⚪ Planejamento |
+| **Em breve** | Novos projetos em breve... | ⚪ Planejamento |
 
 
 ---
