@@ -1,0 +1,85 @@
+# Projeto Consumo de Energia
+
+## 📋 Sobre o Projeto
+
+**Nome:** Calculadora de Consumo de Energia Elétrica
+
+**Objetivo:** Este sistema tem como objetivo ajudar os usuários a calcular o consumo mensal de energia elétrica de aparelhos domésticos, fornecendo uma estimativa do custo baseado no tempo de uso diário e na potência do equipamento.
+
+## 💻 Tecnologias Utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Energia](https://img.shields.io/badge/Energia-FFD700?style=for-the-badge&logo=lightbulb&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 🧮 Fórmula Utilizada
+
+O cálculo do consumo mensal é feito através da seguinte fórmula:
+
+```
+Consumo Mensal (kWh) = (Potência (W) × Horas de uso diário × 30 dias) / 1000
+```
+
+**Onde:**
+- **Potência (W):** Potência do aparelho em watts
+- **Horas de uso diário:** Tempo médio que o aparelho fica ligado por dia
+- **30:** Número de dias no mês
+- **1000:** Conversão de watts para quilowatts
+
+O custo mensal é calculado multiplicando o consumo em kWh pelo valor do kWh (R$ 0,75):
+
+```
+Custo Mensal (R$) = Consumo Mensal (kWh) × R$ 0,75
+```
+
+## 🚀 Como Executar o Programa
+
+### Pré-requisitos
+- Python 3.x instalado no sistema
+- Editor de código ou terminal
+
+### Passos para execução:
+
+1. **Clone o repositório:**
+```bash
+git clone https://github.com/seu-usuario/consumo-energia.git
+```
+
+2. **Acesse a pasta do projeto:**
+```bash
+cd consumo-energia
+```
+
+3. **Execute o programa:**
+```bash
+python App.py
+```
+
+4. **Siga as instruções no terminal:**
+   - Digite o nome do aparelho
+   - Informe a potência em watts
+   - Informe o tempo médio de uso diário em horas
+
+## 📊 Exemplo de Uso
+
+```
+Vamos iniciar
+Digite o nome do aparelho: Geladeira
+Digite a potência do aparelho em watts (W): 200
+Digite o tempo médio de uso diário em horas: 24
+O consumo mensal da Geladeira é de 144.00 kWh.
+Seu custo mensal é de R$ 108.00.
+```
+
+## 📈 Badges do Projeto
+
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellowgreen)
+![Versão](https://img.shields.io/badge/VERSÃO-1.0-blue)
+![Licença](https://img.shields.io/badge/LICENÇA-MIT-green)
+![Tamanho do Repositório](https://img.shields.io/github/repo-size/seu-usuario/consumo-energia)
+![Último Commit](https://img.shields.io/github/last-commit/seu-usuario/consumo-energia)
+
+
+**Desenvolvido por:** Samantha Bertoti Ferreira - 2026
